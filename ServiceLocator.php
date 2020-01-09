@@ -1,6 +1,6 @@
 <?php
 /**
- * @author denis909 <dev@denis909.spb.ru>
+ * @author denis909 <mail@denis909.spb.ru>
  * @license MIT
  * @link http://denis909.spb.ru
  */
