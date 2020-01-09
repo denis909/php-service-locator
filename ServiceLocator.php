@@ -1,9 +1,10 @@
 <?php
 /**
- * @author denis909
+ * @author denis909 <dev@denis909.spb.ru>
  * @license MIT
+ * @link http://denis909.spb.ru
  */
-namespace denis909\ServiceLocator;
+namespace Denis909\ServiceLocator;
 
 use Closure;
 
